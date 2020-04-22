@@ -1,0 +1,14 @@
+D:\repos\Design Patterns (C# .Net)\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+D:\repos\Design Patterns (C# .Net)\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\repos\Design Patterns (C# .Net)\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+D:\repos\Design Patterns (C# .Net)\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+D:\repos\Design Patterns (C# .Net)\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\repos\Design Patterns (C# .Net)\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+D:\repos\Design Patterns (C# .Net)\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+D:\repos\Design Patterns (C# .Net)\1.Single Responsibility Principle\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+D:\repos\Design Patterns (C# .Net)\1.Single Responsibility Principle\DesignPatterns\bin\Debug\DesignPatterns.exe
+D:\repos\Design Patterns (C# .Net)\1.Single Responsibility Principle\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\repos\Design Patterns (C# .Net)\1.Single Responsibility Principle\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+D:\repos\Design Patterns (C# .Net)\1.Single Responsibility Principle\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\repos\Design Patterns (C# .Net)\1.Single Responsibility Principle\DesignPatterns\obj\Debug\DesignPatterns.exe
+D:\repos\Design Patterns (C# .Net)\1.Single Responsibility Principle\DesignPatterns\obj\Debug\DesignPatterns.pdb
