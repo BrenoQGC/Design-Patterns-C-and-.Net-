@@ -4,9 +4,14 @@ using System.Diagnostics;
 using System.IO;
 using static System.Console;
 
+/* Single Responsibility Principle
+ *  A class should onle have one reaseon to change
+ *  Separation of concerns - Different classes handling different, independent tasks/problems
+ * */
+
 namespace DesignPatterns
 {
-    public class SingleResponsabilityPrinciple
+    public class SingleResponsibilityPrinciple
     {
         private readonly List<String> entries = new List<String>();
 
@@ -29,7 +34,7 @@ namespace DesignPatterns
 
     public class Persistence
     {
-        public void SaveToFile(SingleResponsabilityPrinciple j, string filename, bool overwrite = false)
+        public void SaveToFile(SingleResponsibilityPrinciple j, string filename, bool overwrite = false)
         {
             if (overwrite || !File.Exists(filename))
                 File.WriteAllText(filename, j.ToString());
@@ -39,7 +44,7 @@ namespace DesignPatterns
     {
         static void Main(string[] args)
         {
-            var j = new SingleResponsabilityPrinciple();
+            var j = new SingleResponsibilityPrinciple();
             j.AddEntry("Its sunny today");
             j.AddEntry("I drank some coffe");
             WriteLine(j);
