@@ -1,7 +1,0 @@
-D:\repos\Design Patterns (C# .Net)\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe.config
-D:\repos\Design Patterns (C# .Net)\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
-D:\repos\Design Patterns (C# .Net)\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
-D:\repos\Design Patterns (C# .Net)\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojAssemblyReference.cache
-D:\repos\Design Patterns (C# .Net)\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
-D:\repos\Design Patterns (C# .Net)\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
-D:\repos\Design Patterns (C# .Net)\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
